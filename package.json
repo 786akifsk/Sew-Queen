@@ -41,7 +41,7 @@
     "jimp": "^0.16.1",
     "js-ffmpeg": "0.0.26",
     "file-type": "^16.5.2",
-    "jsdom": "^16.6.0",
+    "jsdom": "^17.0.0",
     "langs": "^2.0.0",
     "languagedetect": "^2.0.0",
     "meme-maker": "^2.1.2",
